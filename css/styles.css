@@ -1,0 +1,66 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fondo {
+  /* background-image: url("/img/bg.png"); */
+  background-image: url("https://st2.depositphotos.com/6504442/9281/i/450/depositphotos_92819326-stock-photo-raster-abstract-dark-blue-blurred.jpg");
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 84.69%;
+}
+
+h1,
+h2 {
+  background-color: #C4C4C4;
+  color: #005677;
+}
+
+li span {
+  font-style: italic;
+}
+
+
+p {
+  margin-left: 78px;
+}
+
+footer {
+  background-color: #005677;
+  text-align: center;
+  color: #FFFFFF;
+  font-weight: 700;
+  margin-top: 100px;
+}
+
+.mr {
+  margin-right: 10px;
+}
+
+
+
+.bold {
+  font-weight: bold;
+}
+
+.fotoPerfil {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border: 1px solid black;
+}
+
+nav li {
+  color: blue
+}
+
+.items {
+  text-align: center;
+  margin-top: 30px;
+}
